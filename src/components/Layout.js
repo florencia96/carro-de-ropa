@@ -2,7 +2,7 @@ import { Component } from 'react'
 
 const styles = {
   layout: {
-    backgroundColor: '#fff',
+    backgroundColor: '#ffc9d3',
     color: '#0A283E',
     alignItems: 'center',
     display: 'flex',
