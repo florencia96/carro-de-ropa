@@ -4,7 +4,7 @@ import Producto from './Producto'
 const styles = {
   productos: {
     display: 'flex',
-    flexDirection: 'row',
+    flexDirection: 'column',
     justifyContent: 'space-between',
   }
 }
